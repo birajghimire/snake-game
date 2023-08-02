@@ -47,7 +47,7 @@ Make sure you have Python 3.x installed on your system. You'll also need to inst
 2. Run the game by executing the following command:
    ```bash
    python<version> <your_file_name>.py
-3.The game window will appear. Use the arrow keys to control the snake.
+3. The game window will appear. Use the arrow keys to control the snake.
 4. Press the Escape key to exit the game at any time.
 5. Press the Enter key after a game over to play again.
 
